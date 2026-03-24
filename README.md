@@ -31,7 +31,7 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10B981?style=flat-square&logo=openai&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-F59E0B?style=flat-square&logo=numpy&logoColor=white)
 
----
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi4579675&layout=compact&theme=github_dark&hide_border=true" />
@@ -47,3 +47,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hi4579675/hi4579675/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hi4579675/hi4579675/output/pacman-contribution-graph.svg">
 </picture>
+
+---
