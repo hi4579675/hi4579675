@@ -45,7 +45,6 @@
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=hi4579675&theme=github-dark-blue&hide_border=true" />
 </p>
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hi4579675/hi4579675/output/pacman-contribution-graph-dark.svg">
